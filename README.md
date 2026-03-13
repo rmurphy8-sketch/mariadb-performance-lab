@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # MariaDB Performance Lab 🚀
 This project explores database performance on **ARM-based (aarch64)** architecture using a **MediaTek MT8186** processor.
 
